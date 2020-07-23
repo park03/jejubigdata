@@ -1,2 +1,2 @@
-# it is't about jejubigdata. 
+# it isn't about jejubigdata. 
 # color->song code.
